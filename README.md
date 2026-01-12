@@ -1,9 +1,6 @@
-👋  Hi, I’m @VijitSingh97
-
-₿   Crypto Enthusiast
-
-🐮  Rancher
-
+👋  Hi, I’m @VijitSingh97<br>
+₿   Crypto Enthusiast<br>
+🐮  Rancher<br>
 🔨  Engineer
 
 <!---
