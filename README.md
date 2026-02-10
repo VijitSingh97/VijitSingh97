@@ -1,22 +1,35 @@
-# 👋  Hi, I’m [@VijitSingh97](https://github.com/VijitSingh97)
-#### ₿₿ Crypto Enthusiast
-#### 🐮  Rancher
-#### 🔨  Engineer
+<div align="center">
 
-## Checkout my most recent projects:
+# 👋 Hi, I’m @VijitSingh97
 
-### [p2pool-starter-stack](https://github.com/p2pool-starter-stack/p2pool-starter-stack)<br>
-Unified Docker stack for Monero (P2Pool) + Tari merge mining with a custom web dashboard, routed over Tor.
+[![Crypto Enthusiast](https://img.shields.io/badge/Crypto-Enthusiast-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/VijitSingh97)
+[![Rancher](https://img.shields.io/badge/Rancher-Life-2E8B57?style=for-the-badge&logo=leaf&logoColor=white)](https://github.com/VijitSingh97)
+[![Engineer](https://img.shields.io/badge/Engineer-Builder-007ACC?style=for-the-badge&logo=hammer&logoColor=white)](https://github.com/VijitSingh97)
 
-### What I'm listening too
+<br/>
 
-##### [Donny Hathaway - Someday We'll All Be Free](https://youtu.be/cv1B0ejhFVE?si=x3g5L0u-DW02--oS)
+<img src="https://github-readme-stats.vercel.app/api?username=VijitSingh97&show_icons=true&theme=radical" height="160" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijitSingh97&layout=compact&theme=radical" height="160" alt="languages" />
 
-##### [The Smiths - Heaven Knows I'm Miserable Now](https://www.youtube.com/watch?v=TjPhzgxe3L0)
+</div>
 
-##### [Kanye West- Alpha Omega/Cash Cow (ft. Skepta)](https://youtu.be/3LwC-3Uk2Wk?si=6Tzu3in_3AlqilV6)
+## 🚀 Featured Projects
 
-##### [RiFF RAFF - NEED MORE HORSES](https://youtu.be/uq4cu0J5FY0?si=0EzBnVomIpHxfcV0)
+### ⛏️ [p2pool-starter-stack](https://github.com/p2pool-starter-stack/p2pool-starter-stack)
+> Unified Docker stack for Monero (P2Pool) + Tari merge mining with a custom web dashboard, routed over Tor.
+
+## 🎧 What I'm listening to
+
+| Artist | Song | Link |
+|:---:|:---:|:---:|
+| **Donny Hathaway** | Someday We'll All Be Free | [Listen](https://youtu.be/cv1B0ejhFVE?si=x3g5L0u-DW02--oS) |
+| **The Smiths** | Heaven Knows I'm Miserable Now | [Listen](https://www.youtube.com/watch?v=TjPhzgxe3L0) |
+| **Kanye West** | Alpha Omega/Cash Cow (ft. Skepta) | [Listen](https://youtu.be/3LwC-3Uk2Wk?si=6Tzu3in_3AlqilV6) |
+| **RiFF RAFF** | NEED MORE HORSES | [Listen](https://youtu.be/uq4cu0J5FY0?si=0EzBnVomIpHxfcV0) |
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VijitSingh97&style=flat-square&color=blue" alt="profile views" />
+</div>
 
 <!---
 VijitSingh97/VijitSingh97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
