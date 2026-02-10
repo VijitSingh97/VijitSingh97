@@ -5,11 +5,8 @@
 
 ## Checkout my most recent projects:
 
-### [p2pool-starter-stack](https://github.com/VijitSingh97/p2pool-starter-stack)<br>
+### [p2pool-starter-stack](https://github.com/p2pool-starter-stack/p2pool-starter-stack)<br>
 Unified Docker stack for Monero (P2Pool) + Tari merge mining with a custom web dashboard, routed over Tor.
-
-### [p2pool-worker-starter](https://github.com/VijitSingh97/p2pool-worker-starter)<br>
-A high-performance deployment script for XMRig on Ubuntu/Debian.
 
 ### What I'm listening too
 
