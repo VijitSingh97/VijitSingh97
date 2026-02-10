@@ -7,10 +7,6 @@
 [![Engineer](https://img.shields.io/badge/Engineer-Builder-007ACC?style=for-the-badge&logo=hammer&logoColor=white)](https://github.com/VijitSingh97)
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=VijitSingh97&show_icons=true&theme=radical" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijitSingh97&layout=compact&theme=radical" height="160" alt="languages" />
-
 </div>
 
 ## 🚀 Featured Projects
