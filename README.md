@@ -11,8 +11,14 @@
 
 ## 🚀 Featured Projects
 
-### ⛏️ [p2pool-starter-stack](https://github.com/p2pool-starter-stack/p2pool-starter-stack)
-> Unified Docker stack for Monero (P2Pool) + Tari merge mining with a custom web dashboard, routed over Tor.
+### ⛏️ [Pithead](https://github.com/p2pool-starter-stack/pithead)
+> Private **Monero + Tari merge mining**, the whole stack in one command — your own Monero node, P2Pool, and a live dashboard, all routed over **Tor**. The heart of the [P2Pool Starter Stack](https://p2pool-starter-stack.github.io).
+
+### 🔥 [RigForge](https://github.com/p2pool-starter-stack/rigforge)
+> One command turns any box into a **hardware-tuned XMRig miner** — compiles stock XMRig and applies kernel/CPU tuning for maximum RandomX hashrate. Pithead's companion miner, and works with any RandomX pool.
+
+### 📡 [gate-checker](https://github.com/VijitSingh97/gate-checker)
+> A decentralized **LoRa** monitoring system for remote ranch gates — magnetic sensors on a Raspberry Pi push real-time **Telegram** alerts over long-range radio, no Wi-Fi needed at the edge.
 
 ## 🎧 What I'm listening to
 
