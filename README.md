@@ -13,21 +13,21 @@
 
 ### ⛏️ [Pithead](https://github.com/p2pool-starter-stack/pithead)
 
-[![release](https://img.shields.io/github/v/release/p2pool-starter-stack/pithead?sort=semver&display_name=tag&label=release&color=F26822&logo=monero&logoColor=white&style=flat-square)](https://github.com/p2pool-starter-stack/pithead/releases/latest)
-[![license](https://img.shields.io/github/license/p2pool-starter-stack/pithead?color=yellow&style=flat-square)](https://github.com/p2pool-starter-stack/pithead/blob/main/LICENSE)
+[![release](https://img.shields.io/github/v/release/p2pool-starter-stack/pithead?sort=semver&display_name=tag&label=release&color=F26822&logo=monero&logoColor=white&style=flat-square&cacheSeconds=3600)](https://github.com/p2pool-starter-stack/pithead/releases/latest)
+[![license](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://github.com/p2pool-starter-stack/pithead/blob/main/LICENSE)
 
 > Private **Monero + Tari merge mining**, the whole stack in one command — your own Monero node, P2Pool, and a live dashboard, all routed over **Tor**. The heart of the [P2Pool Starter Stack](https://p2pool-starter-stack.github.io).
 
 ### 🔥 [RigForge](https://github.com/p2pool-starter-stack/rigforge)
 
-[![release](https://img.shields.io/github/v/release/p2pool-starter-stack/rigforge?sort=semver&display_name=tag&label=release&color=ff5236&logo=monero&logoColor=white&style=flat-square)](https://github.com/p2pool-starter-stack/rigforge/releases/latest)
-[![license](https://img.shields.io/github/license/p2pool-starter-stack/rigforge?color=yellow&style=flat-square)](https://github.com/p2pool-starter-stack/rigforge/blob/main/LICENSE)
+[![release](https://img.shields.io/github/v/release/p2pool-starter-stack/rigforge?sort=semver&display_name=tag&label=release&color=ff5236&logo=monero&logoColor=white&style=flat-square&cacheSeconds=3600)](https://github.com/p2pool-starter-stack/rigforge/releases/latest)
+[![license](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://github.com/p2pool-starter-stack/rigforge/blob/main/LICENSE)
 
 > One command turns any box into a **hardware-tuned XMRig miner** — compiles stock XMRig and applies kernel/CPU tuning for maximum RandomX hashrate. Pithead's companion miner, and works with any RandomX pool.
 
 ### 📡 [gate-checker](https://github.com/VijitSingh97/gate-checker)
 
-[![Python](https://img.shields.io/github/languages/top/VijitSingh97/gate-checker?logo=python&logoColor=white&color=3776AB&style=flat-square)](https://github.com/VijitSingh97/gate-checker)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://github.com/VijitSingh97/gate-checker)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-LoRa-C51A4A?logo=raspberrypi&logoColor=white&style=flat-square)](https://github.com/VijitSingh97/gate-checker)
 
 > A decentralized **LoRa** monitoring system for remote ranch gates — magnetic sensors on a Raspberry Pi push real-time **Telegram** alerts over long-range radio, no Wi-Fi needed at the edge.
