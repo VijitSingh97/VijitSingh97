@@ -73,6 +73,14 @@
 
 > A zero-JavaScript, zero-npm marketing site for a lakeside RV park — a Gatsby app rebuilt as a static **Hugo** site (plain HTML/CSS, one Go binary) with build-time responsive images, JSON-LD SEO, and CI/CD to GitHub Pages.
 
+## 🔧 Sharp little tools
+
+**[star-link-hostnames](https://github.com/VijitSingh97/star-link-hostnames)** &nbsp;·&nbsp; `Bash` `gRPC` `jq` — queries **Starlink's gRPC API** to list every device on your dish's network, sortable by hostname or IP.
+
+**[tari-client](https://github.com/VijitSingh97/tari-client)** &nbsp;·&nbsp; `Node.js` `gRPC` — talks to a local **Tari base node** to check sync status and chain tip; the Tari-side companion to the Pithead mining stack.
+
+**[Vector-Clock](https://github.com/VijitSingh97/Vector-Clock)** &nbsp;·&nbsp; `Python` `Flask` — a working **vector-clock** implementation across 3 messaging servers, tracking causal order through internal events and network messages.
+
 ## 🎧 What I'm listening to
 
 | Artist | Song | Link |
