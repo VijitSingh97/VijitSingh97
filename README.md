@@ -75,11 +75,15 @@
 
 ## 🔧 Sharp little tools
 
-**[star-link-hostnames](https://github.com/VijitSingh97/star-link-hostnames)** &nbsp;·&nbsp; `Bash` `gRPC` `jq` — queries **Starlink's gRPC API** to list every device on your dish's network, sortable by hostname or IP.
+**[cpath](https://github.com/VijitSingh97/cpath)** &nbsp;·&nbsp; `POSIX shell` `macOS` `Ubuntu` `Debian` — copies a file or directory's absolute path to the clipboard.
 
-**[tari-client](https://github.com/VijitSingh97/tari-client)** &nbsp;·&nbsp; `Node.js` `gRPC` — talks to a local **Tari base node** to check sync status and chain tip; the Tari-side companion to the Pithead mining stack.
+**[easydd](https://github.com/VijitSingh97/easydd)** &nbsp;·&nbsp; `Python` `macOS` — writes a disk image to an external drive with a picker, progress bar, and startup/source disk protection.
 
-**[Vector-Clock](https://github.com/VijitSingh97/Vector-Clock)** &nbsp;·&nbsp; `Python` `Flask` — a working **vector-clock** implementation across 3 messaging servers, tracking causal order through internal events and network messages.
+**[starlink](https://github.com/VijitSingh97/starlink)** &nbsp;·&nbsp; `Bash` `gRPC` `jq` `macOS` `Linux` — lists Starlink router clients as a sortable table or normalized JSON.
+
+**[ogr](https://github.com/VijitSingh97/ogr)** &nbsp;·&nbsp; `Python` `macOS` `Linux` — opens a Git repository or current branch in the browser.
+
+Install with [Homebrew](https://brew.sh/) using the commands in each repository's README. Signed APT packages are also available for **cpath**, **starlink**, and **ogr** on Ubuntu/Debian.
 
 ## 🎧 What I'm listening to
 
