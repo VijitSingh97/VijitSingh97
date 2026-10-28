@@ -22,6 +22,17 @@ and backup and recovery workflows.
 
 [Documentation](https://github.com/p2pool-starter-stack/pithead#readme) · [Releases](https://github.com/p2pool-starter-stack/pithead/releases)
 
+### [Bitcoin Starter Stack](https://github.com/VijitSingh97/bitcoin-starter-stack) · Infrastructure & monitoring
+
+A very lightweight dashboard for monitoring your new or existing Bitcoin node.
+The stack brings together Bitcoin Core over Tor, watch-only balances from your
+own node, sync and fee monitoring, operational alerts, backups, and container
+releases for amd64 and arm64.
+
+**Stack:** Bitcoin Core, Bash, Docker Compose, Linux, Tor.
+
+[Documentation](https://github.com/VijitSingh97/bitcoin-starter-stack#readme) · [Releases](https://github.com/VijitSingh97/bitcoin-starter-stack/releases)
+
 ### [Hidden Acres RV Park](https://github.com/VijitSingh97/HiddenAcresRV) · Web development
 
 A Gatsby-to-Hugo rebuild of an RV park website. It uses semantic HTML, responsive
@@ -75,6 +86,5 @@ project's README.
 ## More engineering work
 
 - [RigForge](https://github.com/p2pool-starter-stack/rigforge) — Linux worker provisioning, CPU tuning, service health, and recovery around XMRig.
-- [Bitcoin Starter Stack](https://github.com/VijitSingh97/bitcoin-starter-stack) — A Tor-routed Bitcoin node with a dashboard, operational alerts, backups, and multi-architecture container releases.
 
 [Explore the repositories](https://github.com/VijitSingh97?tab=repositories) for source code, design notes, tests, and release history.
