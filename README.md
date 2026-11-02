@@ -22,16 +22,16 @@ and backup and recovery workflows.
 
 [Documentation](https://github.com/p2pool-starter-stack/pithead#readme) · [Releases](https://github.com/p2pool-starter-stack/pithead/releases)
 
-### [Bitcoin Starter Stack](https://github.com/VijitSingh97/bitcoin-starter-stack) · Infrastructure & monitoring
+### [Node Manager](https://github.com/VijitSingh97/node-manager) · Infrastructure & monitoring
 
-A very lightweight dashboard for monitoring your new or existing Bitcoin node.
-The stack brings together Bitcoin Core over Tor, watch-only balances from your
-own node, sync and fee monitoring, operational alerts, backups, and container
-releases for amd64 and arm64.
+A lightweight Go dashboard for running and monitoring Bitcoin, Monero, Tari,
+and other cryptocurrency nodes. It combines pruned storage, Tor-routed public
+runtime traffic, view-only wallet monitoring where supported, Telegram alerts,
+Healthchecks, and per-node controls. Install with Homebrew on macOS or APT on Ubuntu.
 
-**Stack:** Bitcoin Core, Bash, Docker Compose, Linux, Tor.
+**Stack:** Go, JavaScript, Bash, Docker Compose, Tor, macOS, Ubuntu.
 
-[Documentation](https://github.com/VijitSingh97/bitcoin-starter-stack#readme) · [Releases](https://github.com/VijitSingh97/bitcoin-starter-stack/releases)
+[Documentation](https://github.com/VijitSingh97/node-manager#readme) · [Releases](https://github.com/VijitSingh97/node-manager/releases)
 
 ### [Hidden Acres RV Park](https://github.com/VijitSingh97/HiddenAcresRV) · Web development
 
